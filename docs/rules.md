@@ -395,7 +395,7 @@ With that edge cases are more likely to happen
 
 Disable block destruction by liquid flowing
 
-Fluid will just simple stopped at the state before destroying the block
+Fluid will just simply stop at the state before destroying the block
 
 It's useful to prevent liquid from accidentally flooding your redstone wiring in creative
 
